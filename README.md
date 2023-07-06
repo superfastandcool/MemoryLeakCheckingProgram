@@ -12,7 +12,11 @@ Follow the steps to check for any memory leaks.
       ./executable_name < NameOfFileToBeChecked.cpp
       ```
 
-
+## To do
+- [x] Create basic program to check for memory leaks in single-file programs.
+- [ ] Highlight where the memory leak is and how it could be rectified.
+- [ ] Ensure program handles edge cases etc.
+- [ ] Ensure program can check multi-file programs.
 
 
 ## Important information
